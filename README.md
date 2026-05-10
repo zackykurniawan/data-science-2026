@@ -2,8 +2,7 @@
 
 ## 👤 Perkenalan
 
-Nama saya **Muhammad Zacky Kurniawan**, mahasiswa Informatika angkatan 2024
-dengan IPK 4.0. Saya tertarik pada dunia teknologi, khususnya dalam
+Nama saya **Muhammad Zacky Kurniawan**, mahasiswa Informatika angkatan 2024. Saya tertarik pada dunia teknologi, khususnya dalam
 pengolahan dan analisis data.
 
 ## 🎯 Tujuan Belajar Data Science
