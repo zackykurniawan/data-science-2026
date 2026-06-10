@@ -1,4 +1,4 @@
-# 📊 Data Science — IF403
+# 📊 Muhammad Zacky Kurniawan · Data Science
 
 | | |
 |---|---|
